@@ -1,0 +1,18 @@
+{
+  "name": "messageloggingbot",
+  "version": "1.0.0",
+  "description": "message logging bot ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jatin",
+    "nishad"
+  ],
+  "author": "jatin nishad",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
