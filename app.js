@@ -6,9 +6,9 @@ client.on("ready",()=>{
 });
 
 client.on("message",async msg=>{
-    if(msg.content ==='!object'){
-        client.channels.get("564671795601604618").send("Hello, Someone used the >> !object << command in a text channel called >> "+msg.channel.name+" << in a server called >> "+msg.channel.guild.name);
+    if(msg.content ==='Hii'){
+        msg.reply("hello, welcome... its just a sample..and its a bot");
     }
 });
 
-client.login("NTY0NjY5MTM4MDc4MDA3Mjk4.XKrPPQ.kGgjvLPxp5_a50531VSPgNDLYLs")
+client.login("//here ur token//");
