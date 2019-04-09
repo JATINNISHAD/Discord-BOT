@@ -26,6 +26,7 @@ token: ______________________ // ur token here
 
 SPECIAL INFO:-
 in app.js
-
 last code i.e client.login("//here put ur token//") 
 
+Run ur app.js in terminal
+node app.js
