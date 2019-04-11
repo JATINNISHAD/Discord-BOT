@@ -1,5 +1,5 @@
-id: 564669138078007298
+id: 56466913807800****
 
-invite link:  https://discordapp.com/api/oauth2/authorize?client_id=564669138078007298&scope=bot&permissions=1
+invite link:  https://discordapp.com/api/oauth2/authorize?client_id=56466913807800****&scope=bot&permissions=1
 
-token:  NTY0NjY5MTM4MDc4MDA3Mjk4.XKrPPQ.kGgjvLPxp5_a50531VSPgNDLYLs
+token:  //your token here
